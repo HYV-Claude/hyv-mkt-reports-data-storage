@@ -1,0 +1,40 @@
+{
+    "reportId": "20260109",
+    "title": "Market Dynamics Monitoring Report",
+    "dateRange": "Jan 8, 2026 - Jan 9, 2026",
+    "summary": "This period in the gaming market is characterized by typical transition phase hardware features and a trust crisis in service-oriented games. While Nintendo Switch 2 received high attention, holiday sales fell short of the original model, with Nintendo citing a lack of major Western titles. 'Mario Tennis Fever' attempted to boost confidence as one of the first first-party titles, but players were disappointed by the lack of innovation. Xbox's cross-platform strategy deepened further, with 'Avowed' confirmed for PlayStation, sparking intense discussion among console players.",
+    "sections": [
+        {
+            "id": "new-games",
+            "title": "Game Monitoring",
+            "subsections": [
+                {
+                    "title": "New Games",
+                    "type": "card-grid",
+                    "items": [
+                        {
+                            "title": "Arknights: Endfield",
+                            "tags": [
+                                "New",
+                                "3D Tactical RPG",
+                                "Anime"
+                            ],
+                            "content": [
+                                {
+                                    "label": "Game Content",
+                                    "text": "A major shift from the original's tower defense gameplay, established as a 3D real-time strategy RPG. Players utilize terrain and character skill synergies in semi-open levels, emphasizing industrialized base building and exploration. The art style continues the IP's cool tones, but modeling precision and movement smoothness are key feedback points from current tests."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "sources": [],
+    "footer": {
+        "title": "Market Dynamics Report",
+        "disclaimer": "AI-generated content may contain errors. Please verify.",
+        "date": "Produced on 2026-01-09"
+    }
+}
