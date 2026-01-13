@@ -1,0 +1,591 @@
+```json
+{
+  "reportId": "20260113",
+  "title": "市场动态监测报告",
+  "dateRange": "2026-01-12 至 2026-01-13",
+  "summary": "本周期游戏市场呈现出新老交替的鲜明特征。《Hytale》作为《Minecraft》挑战者即将开启抢先体验，预期首日百万玩家；而《Anthem》正式停服，标志着服务型游戏失败案例的终结。《Palworld》宣布推出官方TCG，在法律纠纷阴影下激进扩张IP版图。区域差异显著：日本市场被《勇者斗恶龙VII》的异常搜索热度（100K+）和VTuber驱动的麻将赛事主导；美国市场则被'Brainrot'风格的UGC内容占据，《Fortnite》因第三方地图的$45高价包引发掠夺性变现争议。跨平台数据显示，UGC平台的激进变现与监管困境、经典IP的怀旧复兴、以及VTuber对日本游戏生态的统治力成为三大核心趋势。",
+  "sections": [
+    {
+      "id": "new-games",
+      "title": "游戏监测",
+      "subsections": [
+        {
+          "title": "新游动态",
+          "type": "card-grid",
+          "items": [
+            {
+              "title": "《Hytale》",
+              "tags": ["新游", "沙盒RPG", "抢先体验"],
+              "content": [
+                {
+                  "label": "游戏内容",
+                  "text": "作为《Minecraft》最强挑战者，本作结合沙盒建造与深度RPG冒险元素。开发者演示了强大的Mod支持能力（可在游戏中运行《Doom》），承诺提供高自由度的创作工具与多人联机体验。经历长期开发和Riot收购又回购后，终于定档1月13日开启抢先体验。"
+                },
+                {
+                  "label": "市场营销活动",
+                  "text": "官方通过IGN等头部媒体发布开发者信心声明，强调预购资金已覆盖未来两年开发成本，预期首日百万级玩家涌入。在Discord社群引导玩家预下载启动器，采用饥饿营销策略制造稀缺感。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "社区期待值极高，玩家普遍认为这是继《Minecraft》后沙盒类型的最大革新。Reddit和Discord上充满对Mod生态的讨论，但也有声音担忧服务器承载能力和长期内容更新节奏。",
+                  "sentimentTags": [
+                    {
+                      "text": "沙盒革新期待",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "Mod生态潜力",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "服务器承载担忧",
+                      "type": "negative"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "《Code Vein 2》",
+              "tags": ["新游", "二次元ARPG", "Soulslike"],
+              "content": [
+                {
+                  "label": "游戏内容",
+                  "text": "万代南梦宫开发的'动画版黑魂'续作，定档1月30日发售。新作扩展了战斗系统，新增双伙伴系统（Dual Partner System），保留标志性的吸血鬼风格与高难度Boss战。Steam页面已上线并发布实机预告片。"
+                },
+                {
+                  "label": "市场营销活动",
+                  "text": "通过Steam平台发布展示新武器模组的实机预告片，锁定1月底发售窗口。针对前作粉丝社区进行精准推送，强调伙伴系统的升级作为核心卖点。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "前作粉丝对双伙伴系统的升级表示欢迎，认为这是降低魂类游戏门槛的关键设计。社区期待剧情的延续，但也有玩家担心难度平衡问题。",
+                  "sentimentTags": [
+                    {
+                      "text": "伙伴系统创新",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "难度平衡担忧",
+                      "type": "negative"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "《The Seven Deadly Sins: Origin》",
+              "tags": ["新游", "二次元开放世界", "跨平台MMO"],
+              "content": [
+                {
+                  "label": "游戏内容",
+                  "text": "基于同名动漫IP改编的跨平台MMO，定档1月28日全球同步发售。主打高自由度的开放世界探索与动作战斗，包含抽卡（Gacha）机制。强调主机与移动端的互通性，试图复制其它二次元开放世界竞品的成功路径。"
+                },
+                {
+                  "label": "市场营销活动",
+                  "text": "宣布全球同步发售策略，强调跨平台互通性作为核心竞争力。针对动漫IP粉丝进行精准营销，展示画面还原度和角色建模质量。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "IP粉对画面还原度表示满意，认为角色建模符合原作风格。但Reddit上有部分玩家对'韩式MMO'的肝度与抽卡概率表示担忧，担心重复前作的Pay-to-Win问题。",
+                  "sentimentTags": [
+                    {
+                      "text": "IP还原度高",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "肝度担忧",
+                      "type": "negative"
+                    },
+                    {
+                      "text": "抽卡概率质疑",
+                      "type": "negative"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "头部游戏监测",
+          "type": "card-grid",
+          "items": [
+            {
+              "title": "《Palworld》",
+              "tags": ["热门", "生存建造", "IP扩张"],
+              "content": [
+                {
+                  "label": "游戏动态",
+                  "text": "Pocketpair正式宣布与Bushiroad合作，将于2026年夏季推出官方集换式卡牌游戏（TCG）。这标志着其商业模式进一步向《Pokémon》靠拢，在法律纠纷阴影下依然激进扩张IP版图。"
+                },
+                {
+                  "label": "市场表现",
+                  "text": "日本Twitter出现'Mini Pal'热搜词，玩家对实体卡牌表示强烈兴趣。官方Twitter上关于TCG卡面的预览图获得极高转发量。Google Trends显示日本地区对周边商品的搜索热度持续上升。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "日本玩家对TCG化表示欢迎，认为这是IP价值的延伸。但在西方社区，关于其与任天堂法律纠纷的讨论仍未停歇，部分玩家认为此举是'激进的挑衅'，担心影响游戏本体的更新节奏。",
+                  "sentimentTags": [
+                    {
+                      "text": "IP衍生期待",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "法律风险担忧",
+                      "type": "negative"
+                    },
+                    {
+                      "text": "更新节奏质疑",
+                      "type": "negative"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "《Fortnite》",
+              "tags": ["热门", "大逃杀", "UGC平台"],
+              "content": [
+                {
+                  "label": "游戏动态",
+                  "text": "游戏允许第三方创作者设置内购后，热门地图'Steal the Brainrot'上线了价值$45的高价捆绑包及疑似赌博的轮盘机制，引发严重争议。IGN等媒体对此进行了专题报道。"
+                },
+                {
+                  "label": "市场表现",
+                  "text": "'Steal the Brainrot'地图玩家数破百万，显示出'Brainrot'（魔性内容）风格在青少年群体中的强大吸引力。但高价内购和赌博机制引发了家长和监管机构的关注。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "社区强烈抨击Epic Games监管不力，指责该机制是在向未成年人兜售赌博体验。Reddit上充满了对'掠夺性变现'的声讨，要求平台加强对第三方内容的审核和限制。",
+                  "sentimentTags": [
+                    {
+                      "text": "监管不力批评",
+                      "type": "negative"
+                    },
+                    {
+                      "text": "掠夺性变现质疑",
+                      "type": "negative"
+                    },
+                    {
+                      "text": "未成年保护担忧",
+                      "type": "negative"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "《Anthem》",
+              "tags": ["停服", "服务型游戏", "失败案例"],
+              "content": [
+                {
+                  "label": "游戏动态",
+                  "text": "BioWare于2026年1月12日正式永久关闭《Anthem》服务器，标志着这款2019年发售的服务型游戏生命周期的终结。这是该游戏从发布到停服的完整失败案例，引发了媒体的集体回顾报道。"
+                },
+                {
+                  "label": "市场表现",
+                  "text": "停服事件在Reddit和Twitter上引发大量讨论，玩家举行了'葬礼'式的最后聚会。IGN等媒体发布专题文章，将其作为服务型游戏失败的教科书案例进行分析。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "玩家普遍观点是'极佳的飞行手感被糟糕的运营和空洞的内容毁了'。社区对BioWare表示失望，认为这是3A厂商追逐Live Service泡沫的又一次惨痛失败，对业界敲响警钟。",
+                  "sentimentTags": [
+                    {
+                      "text": "飞行手感优秀",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "运营失败",
+                      "type": "negative"
+                    },
+                    {
+                      "text": "内容空洞",
+                      "type": "negative"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "《勇者斗恶龙VII》",
+              "tags": ["经典IP", "JRPG", "疑似重制"],
+              "content": [
+                {
+                  "label": "游戏动态",
+                  "text": "虽然官方未正式发布公告，但日本Google Trends出现异常搜索峰值（100K+），强烈暗示有重制版或移植版消息流出。推测可能登录Switch 2或其他新平台。"
+                },
+                {
+                  "label": "市场表现",
+                  "text": "日本地区搜索热度达到100K+，远超其他游戏关键词。这种异常的搜索量通常预示着重大发布或公告即将到来，显示出国民级IP在日本市场的恐怖号召力。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "日本玩家表现出极强的怀旧情绪，社交媒体上充斥着对'石板系统'是否会优化的猜测。老玩家期待重制版能保留原作精髓的同时改善游戏节奏和画面表现。",
+                  "sentimentTags": [
+                    {
+                      "text": "怀旧情绪高涨",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "IP号召力强",
+                      "type": "positive"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "《雀魂》",
+              "tags": ["热门", "日式麻将", "VTuber驱动"],
+              "content": [
+                {
+                  "label": "游戏动态",
+                  "text": "'Nijisanji Mahjong Cup 2026'年度赛事正在进行中，这是由VTuber团体彩虹社举办的大型社区活动。赛事不仅限于游戏内对战，还涉及大量的直播流媒体推广和社区互动。"
+                },
+                {
+                  "label": "市场表现",
+                  "text": "日本YouTube Gaming趋势榜显示，Day 3赛事直播回放观看量破166万，相关赛事切片视频霸榜。Twitter上相关话题讨论热度达1.1万+，显示出VTuber对游戏热度的强大带动作用。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "玩家讨论焦点在于VTuber之间的互动与戏剧性牌局，而非游戏本身机制。社区认为这种'偶像+传统游戏'的结合是日本独有的文化现象，游戏成为了追星和社交的载体。",
+                  "sentimentTags": [
+                    {
+                      "text": "VTuber带动力强",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "社区活跃度高",
+                      "type": "positive"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "《Roblox》",
+              "tags": ["热门", "UGC平台", "Brainrot现象"],
+              "content": [
+                {
+                  "label": "游戏动态",
+                  "text": "平台上流行'Brainrot'（魔性/洗脑）风格的生存与跑酷地图，如'ESCAPE TSUNAMI FOR BRAINROTS'等。这种低门槛、高刺激、迷因化的内容正在主导UGC平台，且变现能力惊人。"
+                },
+                {
+                  "label": "市场表现",
+                  "text": "YouTube上相关视频累计播放量破百万，多个视频（Rank 2, 3, 8, 11, 13）都包含'Brainrot'关键词，显示这是一种现象级的用户生成内容趋势。完全依靠社区创作者的内容裂变，无需官方大型营销。"
+                },
+                {
+                  "label": "玩家口碑",
+                  "text": "青少年玩家对'Brainrot'内容表现出极高的消费热情。但家长和老玩家批评平台上充斥着低质量、仅为博眼球的垃圾内容，担忧其对低龄用户的认知发展和价值观形成产生负面影响。",
+                  "sentimentTags": [
+                    {
+                      "text": "青少年吸引力强",
+                      "type": "positive"
+                    },
+                    {
+                      "text": "内容质量低下",
+                      "type": "negative"
+                    },
+                    {
+                      "text": "低龄影响担忧",
+                      "type": "negative"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trends",
+      "title": "热点趋势",
+      "summary": "本周期热点呈现明显的区域分化特征。日本市场被经典IP怀旧（《勇者斗恶龙VII》100K+搜索）和VTuber驱动的社区活动（麻将赛事）主导；美国市场则被'Brainrot'风格的UGC内容和现实体育联动（NFL季后赛）占据。跨平台数据显示，《Palworld》通过TCG化同时出现在搜索、社交和新闻热点中，成为IP扩张的典型案例。硬件方面，Switch 2相关的游戏讨论开始升温，暗示新主机护航作即将公布。",
+      "content": [
+        {
+          "type": "three-column",
+          "columns": [
+            {
+              "title": "Google Trends 谷歌搜索趋势",
+              "subtitle": "过去168小时（7日）趋势",
+              "sections": [
+                {
+                  "title": "美国区域",
+                  "items": [
+                    {
+                      "rank": 1,
+                      "keyword": "Xbox Game Pass Quarantine Zone",
+                      "hotness": "1K+",
+                      "desc": "玩家积极寻找Xbox Game Pass相关的特定内容或攻略，推测与Game Pass新增游戏的特定关卡（如《Fallout》系列或《Arc Raiders》等涉及撤离/危险区域玩法的游戏更新）有关，反映订阅制用户对特定游戏内容的攻略需求极高。"
+                    }
+                  ]
+                },
+                {
+                  "title": "日本区域",
+                  "items": [
+                    {
+                      "rank": 1,
+                      "keyword": "ドラクエ7 (Dragon Quest VII)",
+                      "hotness": "100K+",
+                      "desc": "搜索量极高，强烈暗示有重制版公布、周年纪念活动或登录新平台（如Switch 2/移动端）的消息流出。国民级RPG在日本市场的号召力依然恐怖，经典IP的重制依然是获取流量的王牌。"
+                    },
+                    {
+                      "rank": 2,
+                      "keyword": "シンザン記念 過去 (Shinzan Kinen)",
+                      "hotness": "20K+",
+                      "desc": "赛马赛事搜索，常与《赛马娘》游戏产生联动效应。现实赛马结果往往会引发游戏内相关马娘卡的讨论或活动猜测，反映日本传统博彩与二次元游戏的深度融合。"
+                    },
+                    {
+                      "rank": 3,
+                      "keyword": "王将戦 (Osho-sen)",
+                      "hotness": "5K+",
+                      "desc": "将棋头衔战搜索，反映日本传统棋牌/桌面游戏受众群体的活跃度，常与《将棋沃斯》等电子化将棋游戏产生关联。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Twitter 热门话题",
+              "subtitle": "报告当下的热门",
+              "sections": [
+                {
+                  "title": "美国区域",
+                  "items": [
+                    {
+                      "rank": 1,
+                      "keyword": "#WWERaw",
+                      "count": "4.3万",
+                      "desc": "摔角节目直播话题，与WWE 2K系列游戏有受众重叠。虽然主要是体育娱乐，但常带动相关游戏讨论，显示体育IP对游戏市场的辐射效应。"
+                    },
+                    {
+                      "rank": 2,
+                      "keyword": "NASCAR",
+                      "count": "1.7万",
+                      "desc": "赛车赛事话题，与iRacing或NASCAR系列游戏相关。美国Twitter趋势主要被NFL体育赛事占据，游戏话题在超级碗前夕被边缘化。"
+                    }
+                  ]
+                },
+                {
+                  "title": "日本区域",
+                  "items": [
+                    {
+                      "rank": 1,
+                      "keyword": "ミニパル (Mini Pal)",
+                      "count": "1,622",
+                      "desc": "《Palworld》的新周边或TCG卡牌相关讨论。结合IGN新闻中提到的'Palworld推出TCG'，这可能是相关的小型周边或卡牌代称，显示玩家对IP实体化的强烈兴趣。"
+                    },
+                    {
+                      "rank": 2,
+                      "keyword": "無双ライフ (Musou Life)",
+                      "count": "1.1万",
+                      "desc": "可能指代《真·三国无双》系列的新作宣发或手游活动，'无双'类游戏的日常讨论。反映日本玩家对动作割草游戏的持续热情。"
+                    },
+                    {
+                      "rank": 3,
+                      "keyword": "ゴッドゴブリン (God Goblin)",
+                      "count": "1.1万",
+                      "desc": "特定游戏中的新角色、卡牌或Boss名称，推测为卡牌手游或RPG手游的新活动词汇。显示日本玩家喜欢在Twitter讨论具体游戏细节。"
+                    },
+                    {
+                      "rank": 4,
+                      "keyword": "癒やしの指先 (Healing Fingertips)",
+                      "count": "1.1万",
+                      "desc": "通常与音游、休闲手游或带有ASMR属性的游戏相关，反映日本市场对治愈系游戏内容的偏好。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "YouTube Trend",
+              "subtitle": "热门视频趋势",
+              "sections": [
+                {
+                  "title": "美国区域",
+                  "items": [
+                    {
+                      "title": "ROBLOX ESCAPE TSUNAMI FOR BRAINROTS!",
+                      "views": "80万+",
+                      "game": "《Roblox》",
+                      "url": "https://www.youtube.com"
+                    },
+                    {
+                      "title": "Elevator - This Gmod Blast From the Past Returns!",
+                      "views": "58.9万",
+                      "game": "《Garry's Mod》",
+                      "url": "https://www.youtube.com"
+                    },
+                    {
+                      "title": "This is a British propaganda game..",
+                      "views": "67.5万",
+                      "game": "《We Happy Few》",
+                      "url": "https://www.youtube.com"
+                    },
+                    {
+                      "title": "Our Playoff Game Was CRAZY! Wheel of MUT!",
+                      "views": "35.6万",
+                      "game": "《Madden NFL》",
+                      "url": "https://www.youtube.com"
+                    },
+                    {
+                      "title": "Working the night shift alone...",
+                      "views": "17.9万",
+                      "game": "独立恐怖游戏",
+                      "url": "https://www.youtube.com"
+                    }
+                  ]
+                },
+                {
+                  "title": "日本区域",
+                  "items": [
+                    {
+                      "title": "【#にじさんじ麻雀杯2026】Day3",
+                      "views": "166万",
+                      "game": "《雀魂》",
+                      "url": "https://www.youtube.com"
+                    },
+                    {
+                      "title": "【北斗転生2】よしきが一番愛した台が帰ってきた!!",
+                      "views": "75.7万",
+                      "game": "《スマスロ北斗の拳》",
+                      "url": "https://www.youtube.com"
+                    },
+                    {
+                      "title": "【ark】煮汁炊き出し【ロストコロニー #6】",
+                      "views": "58.2万",
+                      "game": "《ARK: Survival Ascended》",
+                      "url": "https://www.youtube.com"
+                    },
+                    {
+                      "title": "クソゲーハンターが５万円のクソゲー福袋を開封する",
+                      "views": "53.8万",
+                      "game": "复古游戏合集",
+                      "url": "https://www.youtube.com"
+                    },
+                    {
+                      "title": "超巨大ピザから異物を100個見つけるまで終われません！！",
+                      "views": "28.9万",
+                      "game": "《Minecraft》",
+                      "url": "https://www.youtube.com"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "insights",
+      "title": "综合趋势洞察",
+      "subtitle": "AI洞察（仅参考）",
+      "items": [
+        {
+          "title": "跨平台热门游戏识别：《Palworld》的IP扩张路径",
+          "text": "《Palworld》同时出现在Google Trends（日本周边搜索）、Twitter（Mini Pal热词）和IGN新闻（TCG化公告）中，成为本周期唯一的跨平台全覆盖话题。这显示出该IP正在从单一的电子游戏向全方位的娱乐实体转型，尽管面临任天堂的专利诉讼，其商业扩张步伐并未放缓。",
+          "details": [
+            {
+              "title": "TCG化的战略意义",
+              "text": "与Bushiroad合作推出官方集换式卡牌游戏，标志着《Palworld》进一步模仿《Pokémon》的商业路线。实体卡牌不仅能开拓新的收入来源，还能强化IP在线下的存在感，尤其在日本市场具有极强的文化认同度。"
+            },
+            {
+              "title": "法律风险下的激进策略",
+              "text": "在与任天堂的法律纠纷尚未解决的情况下，Pocketpair选择加速IP衍生品开发，这是一种高风险高回报的策略。西方社区对此存在争议，但日本玩家的积极反应显示出区域市场的差异化认知。"
+            },
+            {
+              "title": "社交媒体的放大效应",
+              "text": "Twitter上'Mini Pal'热搜词的出现，以及官方TCG卡面预览图的高转发量，证明了社交媒体在IP营销中的核心作用。玩家自发的讨论和二次创作成为了最有效的免费宣传渠道。"
+            }
+          ]
+        },
+        {
+          "title": "区域市场差异：怀旧IP vs UGC经济",
+          "text": "日本和美国市场在本周期呈现出截然不同的热点特征。日本市场被经典IP的怀旧复兴（《勇者斗恶龙VII》100K+搜索）和VTuber驱动的社区活动主导；美国市场则被'Brainrot'风格的UGC内容和激进变现策略占据。这种差异反映了两个市场在游戏消费文化和价值观上的根本分歧。",
+          "details": [
+            {
+              "title": "日本市场：IP依赖与偶像经济",
+              "text": "《勇者斗恶龙VII》的异常搜索热度（100K+）显示出国民级IP在日本市场的恐怖号召力。同时，《雀魂》麻将赛事因VTuber参与而获得166万观看，证明了'偶像+传统游戏'的结合是日本独有的文化现象。玩家更在意'我喜欢的IP/偶像在发生什么'，而非游戏机制本身的创新。"
+            },
+            {
+              "title": "美国市场：UGC创作与激进变现",
+              "text": "《Roblox》和《Fortnite》中的'Brainrot'内容主导了YouTube和Twitter热点。《Fortnite》的'Steal the Brainrot'地图上线$45高价包引发掠夺性变现争议，显示出UGC平台在监管缺失下的野蛮生长。美国玩家更关注'我在游戏中能创造/消费什么'，对创作者经济和商业模式的敏感度更高。"
+            },
+            {
+              "title": "跨区域启示",
+              "text": "在日本推广游戏，构建VTuber参与的社区赛事或服务器活动比单纯买量更有效；在美国市场，支持UGC创作生态和建立透明的变现规则是维持玩家信任的关键。两个市场需要完全不同的本地化策略。"
+            }
+          ]
+        },
+        {
+          "title": "玩家核心关切：服务型游戏的生死考验",
+          "text": "本周期市场呈现出鲜明的新老交替对比——《Hytale》作为新星即将登场，而《Anthem》正式停服成为失败案例的墓志铭。这两个事件共同揭示了玩家对服务型游戏（Live Service）的核心关切：长期内容承诺的可信度、运营质量的稳定性、以及开发者与社区的沟通透明度。",
+          "details": [
+            {
+              "title": "《Anthem》的失败教训",
+              "text": "玩家普遍观点是'极佳的飞行手感被糟糕的运营和空洞的内容毁了'。这是3A厂商追逐Live Service泡沫的又一次惨痛失败，暴露出高预算不等于高质量运营的行业困境。Reddit上的'葬礼'式讨论显示，玩家对被辜负的期待记忆深刻。"
+            },
+            {
+              "title": "《Hytale》的期待与压力",
+              "text": "开发者信心爆棚地宣称首日将迎百万玩家，并强调预购已覆盖未来两年开发成本。但社区也存在对服务器承载能力和长期更新节奏的担忧。《Anthem》的前车之鉴让玩家对Live Service游戏的承诺更加谨慎。"
+            },
+            {
+              "title": "行业趋势变化",
+              "text": "玩家对服务型游戏的耐心正在降低，对游戏质量和运营承诺的审查更加严苛。单纯的高预算和IP号召力已不足以保证成功，持续的内容更新、透明的沟通和公平的商业模式成为生存的必要条件。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sources",
+      "title": "引用来源",
+      "items": [
+        {
+          "text": "[IGN] Hytale Dev Expects Over 1 Million Players to Turn Up for Early Access Release Date",
+          "url": "https://www.ign.com/articles/hytale-dev-expects-over-1-million-players-to-turn-up-for-early-access-release-date-asks-fans-to-download-the-launcher-now",
+          "date": "2026/01/12"
+        },
+        {
+          "text": "[IGN] As Fortnite Enables Third-Party Microtransactions, Steal the Brainrot's Developer is Slammed By Fans",
+          "url": "https://www.ign.com/articles/as-fortnite-enables-third-party-microtransactions-steal-the-brainrots-developer-is-slammed-by-fans-for-immediately-adding-45-premium-bundles-and-gambling-style-mechanics",
+          "date": "2026/01/12"
+        },
+        {
+          "text": "[IGN] 'They Really Are Going the Pokémon Route' — Palworld Is Getting an Official Trading Card Game",
+          "url": "https://www.ign.com/articles/they-really-are-going-the-pokmon-route-palworld-is-getting-an-official-trading-card-game",
+          "date": "2026/01/12"
+        },
+        {
+          "text": "[IGN] It's Official: BioWare Has Now Pulled the Plug on Live-Service Failure Anthem",
+          "url": "https://www.ign.com/articles/its-official-bioware-has-now-pulled-the-plug-on-live-service-failure-anthem",
+          "date": "2026/01/12"
+        },
+        {
+          "text": "[PocketGamer] Puzzle & Dragons hits a whopping 16 million downloads in North America",
+          "url": "https://www.pocketgamer.com/puzzle-dragons/16-million-downloads-north-america/",
+          "date": "2026/01/12"
+        },
+        {
+          "text": "[PC Gamer] New 2026 games: Our release date calendar",
+          "url": "https://www.pcgamer.com/games/new-pc-games-2026/",
+          "date": "2026"
+        },
+        {
+          "text": "[YouTube] January 2026 New Releases I'm Looking Forward to",
+          "url": "https://www.youtube.com/watch?v=T2-51LxBHIg",
+          "date": "2026/01"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "title": "游戏发行监测报告",
+    "disclaimer": "AI制作可能犯错，请再次检查正确性",
+    "date": "2026-01-13"
+  }
+}
+```
