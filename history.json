@@ -1,0 +1,20 @@
+[
+    {
+        "id": "20260113",
+        "date": "2026-01-13",
+        "title": "26-01-13",
+        "files": {
+            "zh-CN": "mkt-reports-competitor-news-20260113_zh-CN.json",
+            "en-US": "mkt-reports-competitor-news-20260113_en-US.json"
+        }
+    },
+    {
+        "id": "20260109",
+        "date": "2026-01-09",
+        "title": "26-01-09",
+        "files": {
+            "zh-CN": "mkt-reports-competitor-news-20260109_zh-CN.json",
+            "en-US": "mkt-reports-competitor-news-20260109_en-US.json"
+        }
+    }
+]
